@@ -30,7 +30,7 @@ Fulfill user stories below:
 
 ### Demo
 
-Find the site in action [here](https://brave-bassi-231eac.netlify.app/)!
+Find the site in action [here](https://to-do-app-dev-challenges.vercel.app)!
 
 
 ### Note:
